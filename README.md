@@ -1,24 +1,12 @@
-# README
+# アードベッグRailsについて
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+アードベッグはアイラモルトウイスキーの名前。
 
-Things you may want to cover:
+このアプリケーションを通して、アードベッグのようにクセになるほどの刺激的なフレーバーを世の中に与える。
 
-* Ruby version
+## 環境構築
 
-* System dependencies
+以下を参考に環境構築を行う
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* https://qiita.com/kodai_0122/items/795438d738386c2c1966
+* (https://docs.docker.com/compose/rails/)
